@@ -1,1 +1,2 @@
 # git-test-
+Update your README.md file inside VS Code to add some text and then save the file. Run git status, and you should see that Git has tracked your changes and says the README.md file has been modified. This means your changes are ready to stage.
